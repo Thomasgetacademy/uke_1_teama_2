@@ -1,0 +1,40 @@
+body {
+    background-color: pink;
+    font-size: 15px;
+    text-align: center;
+}
+
+#app, td  {
+    border: 1px solid green;
+    border-collapse: collapse;
+    max-width: 100%;
+    max-height: 100%;
+    /* border-radius: 2; */
+}
+
+.tablewidth {
+    background-color: white;
+    height: 20px;
+    width: 20px;
+}
+
+.headBackground {
+    background-color: green;
+}
+
+.headDead {
+    background-color: red;
+}
+
+.bodyBackground {
+    background-color: greenyellow;
+}
+
+.bodyDead {
+    background-color: rgb(255, 72, 72);
+}
+
+.rickGif {
+    width: 400px;
+    margin: 0 auto;
+}
